@@ -1,0 +1,12 @@
+k_medio,2.82
+k_min,1
+k_max,27
+raio,1.0
+diametro,8
+num_vertices,100
+num_arestas,141
+r_grau,-0.22375063934771494
+eigenvector_value,7.639033675641207
+num_maiores_cliques,3
+tam_maior_clique,5
+tam_maximal_cliques,101
